@@ -1,4 +1,4 @@
-### Hi Stanger!!!  👋 Eu sou o Kauã, atualmente estou cursando o 6° semestre do curso técnico em informática integrado ao ensino médio no Instituto Federal de Santa Catarina - Campus Gaspar, sou fascinado por programação, estou em busca de evoluir cada vez mais meus conhecimentos na área e conseguir um estágio ou uma oportunidade de emprego na área.
+### Hi Stanger!!!  👋 Eu sou o Kauã, atualmente estou cursando o 6° semestre do curso técnico em informática integrado ao ensino médio no Instituto Federal de Santa Catarina - Campus Gaspar, sou fascinado por programação, estou em busca de evoluir cada vez mais meus conhecimentos na e conseguir um estágio ou uma oportunidade de emprego na área.
 
  
 
