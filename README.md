@@ -1,4 +1,4 @@
-### Hi Stanger!!!  👋 Eu sou o Kauã, atualmente estou cursando o 6° semestre do curso técnico em informática integrado ao ensino médio no Instituto Federal de Santa Catarina - Campus Gaspar, sou fascinado por programação, estou em busca de evoluir cada vez mais meus conhecimentos e conseguir um estágio ou uma oportunidade de emprego na área.
+### Hi Stranger!!!  👋 Eu sou o Kauã, atualmente estou cursando o 6° semestre do curso técnico em informática integrado ao ensino médio no Instituto Federal de Santa Catarina - Campus Gaspar, sou fascinado por programação, estou em busca de evoluir cada vez mais meus conhecimentos e conseguir um estágio ou uma oportunidade de emprego na área.
 
  
 
@@ -24,15 +24,15 @@
   <img align="center" alt="Kaua-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Kaua-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Kaua-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   </div>
   
-  <h1>Studying</h1>
+  <h1>Studying and dev</h1>
   <div style="display: inline_block"><br>
   <img align="center" alt="Kaua-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Kaua-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img align="center" alt="Kaua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+   <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   </div>
   
   ##
