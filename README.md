@@ -9,6 +9,7 @@
 - 💬 Ask me about ... me?
 - 📫 Entre em contato comigo pelo email: kauamelchoretto@gmail.com
 - ⚡ Fun fact: Em constante evolução. Ficou curioso? Me conheça 🙂
+- 👨‍💻 Meu Portifólio: https://kauamelchioretto.github.io/MeuPortfolio/. OBS: NÃO É RESPONSIVO.
 
 <h1>Statistics</h1>
 <div align="center">
