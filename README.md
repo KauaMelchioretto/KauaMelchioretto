@@ -3,12 +3,12 @@
  
 
 ### ✨About✨
-- 🔭 Atualmente não possuo experiência no mercado, apenas um estudante focado...
+- 🔭 Atualmente sou estagiário como desenvolvedor mobile e um estudante focado...
 - 🌱 Em um combo de estudo de HTML, CSS, JavaScript, ReactJs e NodeJs
 - 🤔 Você pode me ajudar? Apenas compartilhe qualquer conhecimento interessante sobre a área da programação!
-- 💬 Ask me about ... me?
+- 💬 Ask me about me
 - 📫 Entre em contato comigo pelo email: kauamelchoretto@gmail.com
-- ⚡ Fun fact: Em constante evolução. Ficou curioso? Me conheça 🙂
+- ⚡ Fun fact: Em constante evolução. 🙂
 - 👨‍💻 Meu Portifólio: https://kauamelchioretto.github.io/MeuPortfolio/. OBS: NÃO É RESPONSIVO.
 
 <h1>Statistics</h1>
