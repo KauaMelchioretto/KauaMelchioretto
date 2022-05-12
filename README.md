@@ -4,7 +4,7 @@
 
 ### ✨About✨
 - 🔭 Atualmente sou estagiário como desenvolvedor mobile e um estudante focado...
-- 🌱 Em um combo de estudo de HTML, CSS, JavaScript, ReactJs e NodeJs
+- 🌱 Estudando C# pra desenvolvimento mobile e desenvolvendo um projeto em HTML, CSS, JavaScript, ReactJs e NodeJs.
 - 🤔 Você pode me ajudar? Apenas compartilhe qualquer conhecimento interessante sobre a área da programação!
 - 💬 Ask me about me
 - 📫 Entre em contato comigo pelo email: kauamelchoretto@gmail.com
@@ -23,16 +23,16 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Kaua-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Kaua-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Kaua-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   </div>
   
   <h1>Studying and dev</h1>
   <div style="display: inline_block"><br>
   <img align="center" alt="Kaua-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Kaua-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Kaua-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img align="center" alt="Kaua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-   <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   </div>
   
   ##
