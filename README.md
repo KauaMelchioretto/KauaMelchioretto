@@ -4,7 +4,7 @@
 
 ### ✨About✨
 - 🔭 Atualmente sou estagiário como desenvolvedor mobile e um estudante focado...
-- 🌱 Estudando C# pra desenvolvimento mobile e desenvolvendo um projeto em HTML, CSS, JavaScript, ReactJs e NodeJs.
+- 🌱 Estudando C# e desenvolvendo um projeto em ReactJs e NodeJs.
 - 🤔 Você pode me ajudar? Apenas compartilhe qualquer conhecimento interessante sobre a área da programação!
 - 💬 Ask me about me
 - 📫 Entre em contato comigo pelo email: kauamelchoretto@gmail.com
