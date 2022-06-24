@@ -1,15 +1,16 @@
-### Hi Stranger!!!  👋 Eu sou o Kauã, atualmente estou cursando o 6° semestre do curso técnico em informática integrado ao ensino médio no Instituto Federal de Santa Catarina - Campus Gaspar, sou fascinado por programação, estou em busca de evoluir cada vez mais meus conhecimentos.
+### Hi stranger!!! 👋 I'm Kauã, I'm currently attending the 6th semester of the computer course integrated with high school at the Federal Institute of Santa Catarina - Gaspar Campus, I'm fascinated by programming, I'm looking for a technique to evolve my knowledge more and more.
 
  
 
 ### ✨About✨
-- 🔭 Atualmente sou estagiário como desenvolvedor mobile e um estudante focado...
-- 🌱 Estudando C# e desenvolvendo um projeto em ReactJs e NodeJs.
-- 🤔 Você pode me ajudar? Apenas compartilhe qualquer conhecimento interessante sobre a área da programação!
+- 🔭 I'm currently an intern as a mobile developer and a focused student...
+- 🌱 Studying C# and a project in ReactJs and NodeJs.
+- 🤔 Can you help me? Just share any interesting knowledge about the programming field!
 - 💬 Ask me about me
-- 📫 Entre em contato comigo pelo email: kauamelchoretto@gmail.com
-- ⚡ Fun fact: Em constante evolução. 🙂
-- 👨‍💻 Meu Portifólio: https://kauamelchioretto.github.io/MeuPortfolio/. OBS: NÃO É RESPONSIVO.
+- 📫 Contact me by email: kauamelchoretto@gmail.com
+- ⚡ Curiosity: Constantly evolving. 🙂
+- 👨‍💻 My Portfolio: https://kauamelchioretto.github.io/MeuPortfolio/. NOTE: NOT RESPONSIVE.
+-  ⚛️ My recent project - Home Service: https://webhomeservice.herokuapp.com/. Made with ReactJS and NodeJS.
 
 <h1>Statistics</h1>
 <div align="center">
