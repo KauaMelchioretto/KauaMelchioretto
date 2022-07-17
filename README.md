@@ -1,12 +1,11 @@
-### Hi stranger!!! 👋 I'm Kauã, I'm currently attending the 6th semester of the computer course integrated with high school at the Federal Institute of Santa Catarina - Gaspar Campus, I'm fascinated by programming, I'm looking for a technique to evolve my knowledge more and more.
+### Hi!!! 👋 I'm Kauã, I'm currently graduated in the technical course in informatics integrated to high school at the Federal Institute of Santa Catarina - Gaspar Campus and i'm fascinated by programming.
 
  
 
 ### ✨About✨
 - 🔭 I'm currently an intern as a mobile developer and a focused student...
-- 🌱 Studying C# and a project in ReactJs and NodeJs.
+- 🌱 Studying C#, ReactJs and NodeJs.
 - 🤔 Can you help me? Just share any interesting knowledge about the programming field!
-- 💬 Ask me about me
 - 📫 Contact me by email: kauamelchoretto@gmail.com
 - ⚡ Curiosity: Constantly evolving. 🙂
 - 👨‍💻 My Portfolio: https://kauamelchioretto.github.io/MeuPortfolio/. NOTE: NOT RESPONSIVE.
