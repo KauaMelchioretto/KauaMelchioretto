@@ -3,7 +3,7 @@
  
 
 ### ✨About✨
-- 🔭 I'm currently an intern as a mobile developer and a focused student...
+- 🔭 I'm currently an intern as developer and a focused student...
 - 🌱 Studying C#, ReactJs and NodeJs.
 - 🤔 Can you help me? Just share any interesting knowledge about the programming field!
 - 📫 Contact me by email: kauamelchoretto@gmail.com
