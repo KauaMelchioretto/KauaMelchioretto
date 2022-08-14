@@ -8,7 +8,7 @@
 - 🤔 Can you help me? Just share any interesting knowledge about the programming field!
 - 📫 Contact me by email: kauamelchoretto@gmail.com
 - ⚡ Curiosity: Constantly evolving. 🙂
-- 👨‍💻 My Portfolio: https://kauamelchioretto.github.io/MeuPortfolio/. NOTE: NOT RESPONSIVE.
+- 👨‍💻 My Portfolio: https://kauamelchioretto-portfolio.herokuapp.com/.
 -  ⚛️ My recent project - Home Service: https://webhomeservice.herokuapp.com/. Made with ReactJS and NodeJS.
 
 <h1>Statistics</h1>
