@@ -4,12 +4,12 @@
 
 ### ✨About✨
 - 🔭 I'm currently an intern as developer and a focused student...
-- 🌱 Studying C#, ReactJs and NodeJs.
+- 🌱 Studying ReactJs and NodeJs.
 - 🤔 Can you help me? Just share any interesting knowledge about the programming field!
 - 📫 Contact me by email: kauamelchoretto@gmail.com
 - ⚡ Curiosity: Constantly evolving. 🙂
-- 👨‍💻 My Portfolio: https://kauamelchioretto-portfolio.herokuapp.com/.
--  ⚛️ My recent project - Home Service: https://webhomeservice.herokuapp.com/. Made with ReactJS and NodeJS.
+- 👨‍💻 My Portfolio: https://kauamelchioretto-portfolio.herokuapp.com/. - Made with ReactJs
+-  ⚛️ My recent project - Home Service: https://webhomeservice.herokuapp.com/. - Made with ReactJS and NodeJS.
 
 <h1>Statistics</h1>
 <div align="center">
