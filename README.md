@@ -29,7 +29,7 @@
   <img align="center" alt="Kaua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Kaua-SNOW" height="80" width="80" src="https://logosmarcas.net/wp-content/uploads/2022/02/ServiceNow-Logo.png"/>
+  <img align="center" alt="Kaua-SNOW" height="80" width="80" src="[https://logosmarcas.net/wp-content/uploads/2022/02/ServiceNow-Logo.png](https://spng.pinpng.com/pngs/s/87-873140_servicenow-logo-png-svg-logo-vector-template-free.png)"/>
   </div>
   
   ##
