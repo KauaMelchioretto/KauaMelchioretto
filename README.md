@@ -1,15 +1,15 @@
-### Hi!!! 👋 I'm Kauã, I'm currently graduated in the technical course in informatics integrated to high school at the Federal Institute of Santa Catarina - Gaspar Campus and i'm fascinated by programming.
-
+### Hi!!! 👋 I'm Kauã, I'm currently graduated in the technical course in informatics integrated to high school at the Federal Institute of Santa Catarina - Gaspar Campus and i'm fascinated by programming, i'm Developer and my current profession is ServiceNow Developer.
  
 
 ### ✨About✨
-- 🔭 I'm currently an intern as developer and a focused student...
+- 🔭 I'm currently an intern as developer...
 - 🌱 Studying ReactJs and NodeJs.
 - 🤔 Can you help me? Just share any interesting knowledge about the programming field!
 - 📫 Contact me by email: kauamelchoretto@gmail.com
 - ⚡ Curiosity: Constantly evolving. 🙂
-- 👨‍💻 My Portfolio: https://kauamelchioretto-portfolio.herokuapp.com/. - Made with ReactJs
--  ⚛️ My recent project - Home Service: https://webhomeservice.herokuapp.com/. - Made with ReactJS and NodeJS.
+-  👨‍💻 Some projects:
+   - Home Service: https://webhomeservice.herokuapp.com/. - Made with ReactJS and NodeJS; 
+   - My Personal Portfolio: https://kauamelchioretto-portfolio.herokuapp.com/. - Made with ReactJs
 
 <h1>Statistics</h1>
 <div align="center">
