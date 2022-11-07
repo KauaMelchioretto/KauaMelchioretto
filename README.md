@@ -1,9 +1,9 @@
-### Hi!!! 👋 I'm Kauã, I'm currently graduated in the technical course in informatics integrated to high school at the Federal Institute of Santa Catarina - Gaspar Campus and i'm fascinated by programming, i'm Developer and my current profession is ServiceNow Developer.
+### Hi!!! 👋 I'm Kauã, I'm currently graduated in the technical course in informatics integrated to high school at the Federal Institute of Santa Catarina - Gaspar Campus, i'm fascinated by programming and my current profession is ServiceNow Developer.
  
 
 ### ✨About✨
 - 🔭 I'm currently an intern as developer...
-- 🌱 Studying ReactJs and NodeJs.
+- 🌱 Studying...
 - 🤔 Can you help me? Just share any interesting knowledge about the programming field!
 - 📫 Contact me by email: kauamelchoretto@gmail.com
 - ⚡ Curiosity: Constantly evolving. 🙂
