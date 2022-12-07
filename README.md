@@ -8,8 +8,7 @@
 - 📫 Contact me by email: kauamelchoretto@gmail.com
 - ⚡ Curiosity: Constantly evolving. 🙂
 -  👨‍💻 Some projects:
-   - Home Service: https://webhomeservice.herokuapp.com/. - Made with ReactJS and NodeJS; 
-   - My Personal Portfolio: https://kauamelchioretto-portfolio.herokuapp.com/. - Made with ReactJs
+   - My Personal Portfolio: https://kauamelchioretto-portfolio.onrender.com/. - Made with ReactJs
 
 <h1>Statistics</h1>
 <div align="center">
