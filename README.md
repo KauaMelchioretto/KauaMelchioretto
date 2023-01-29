@@ -8,7 +8,8 @@
 - 📫 Contact me by email: kauamelchoretto@gmail.com
 - ⚡ Curiosity: Constantly evolving. 🙂
 -  👨‍💻 Some projects:
-   - My Personal Portfolio: https://kauamelchioretto-portfolio.onrender.com/. - Made with ReactJs
+   - Personal project: <a href="https://kauamelchioretto-portfolio.onrender.com/">My Personal Portfolio</a>
+   - Group prject: <a href="https://www.voiders.club/">Voiders Club</a>
 
 <h1>Statistics</h1>
 <div align="center">
