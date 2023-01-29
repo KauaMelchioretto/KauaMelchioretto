@@ -8,8 +8,8 @@
 - 📫 Contact me by email: kauamelchoretto@gmail.com
 - ⚡ Curiosity: Constantly evolving. 🙂
 -  👨‍💻 Some projects:
-   - Personal project: <a href="https://kauamelchioretto-portfolio.onrender.com/">My Personal Portfolio</a>
-   - Group prject: <a href="https://www.voiders.club/">Voiders Club</a>
+   - Personal project: <a href="https://kauamelchioretto-portfolio.onrender.com/" target="_blank" >My Personal Portfolio</a>
+   - Group project: <a href="https://www.voiders.club/" target="_blank">Voiders Club</a>
 
 <h1>Statistics</h1>
 <div align="center">
