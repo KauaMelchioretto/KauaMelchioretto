@@ -36,6 +36,5 @@ Studying higher education in Systems Analysis and Development at Instituto Feder
   <div>
   <a href="mailto:kauamelchoretto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://api.whatsapp.com/send?phone=5547996191929&text=Voc%C3%AA%20est%C3%A1%20entrando%20em%20contato%20com%20Kau%C3%A3%20Melchioretto%20%3A)"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.instagram.com/kaua_cmt/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
   </div>
   
