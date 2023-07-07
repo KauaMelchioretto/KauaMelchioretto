@@ -9,11 +9,11 @@ Studying higher education in Systems Analysis and Development at Instituto Feder
 - ⚡ Curiosity: Constantly evolving. 🙂
 -  👨‍💻 Some projects:
    - Personal projects:
-   - <a href="https://kauamelchioretto-portfolio.onrender.com/" target="_blank">My Personal Portfolio</a>
-   - <a href="https://homeservice-ute7.onrender.com/inicio" target="_blank">Home Service</a>
+     <ol><a href="https://kauamelchioretto-portfolio.onrender.com/" target="_blank">My Personal Portfolio</a></ol>
+     <ol><a href="https://homeservice-ute7.onrender.com/inicio" target="_blank">Home Service</a></ol>
 
    - Group projects:
-   - <a href="https://www.voiders.club/" target="_blank">Voiders Club</a>
+    <ol><a href="https://www.voiders.club/" target="_blank">Voiders Club</a></ol>
 
 <h1>Statistics</h1>
 <div align="center">
