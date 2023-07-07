@@ -8,8 +8,12 @@ Studying higher education in Systems Analysis and Development at Instituto Feder
 - 📫 Contact me by email: kauamelchoretto@gmail.com
 - ⚡ Curiosity: Constantly evolving. 🙂
 -  👨‍💻 Some projects:
-   - Personal project: <a href="https://kauamelchioretto-portfolio.onrender.com/" target="_blank">My Personal Portfolio</a>
-   - Group project: <a href="https://www.voiders.club/" target="_blank">Voiders Club</a>
+   - Personal projects:
+   --  <a href="https://kauamelchioretto-portfolio.onrender.com/" target="_blank">My Personal Portfolio</a>
+   -- <a href="https://homeservice-ute7.onrender.com/inicio" target="_blank">Home Service</a>
+
+   - Group projects:
+   -- <a href="https://www.voiders.club/" target="_blank">Voiders Club</a>
 
 <h1>Statistics</h1>
 <div align="center">
