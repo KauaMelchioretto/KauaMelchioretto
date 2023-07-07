@@ -1,4 +1,4 @@
-### Hi!!! 👋 I'm Kauã, I'm currently graduated in the technical course in informatics integrated to high school at the Federal Institute of Santa Catarina - Gaspar Campus, i'm fascinated by programming and my current profession is ServiceNow Developer.
+### Hi!!! 👋 I'm Kauã, I'm currently graduated in the technical course in informatics integrated to high school at the Federal Institute of Santa Catarina - Gaspar Campus, i'm fascinated by programming and my current profession is backend Developer.
 Studying higher education in Systems Analysis and Development at Instituto Federal de Santa Catarina - Campus Gaspar.
 
 ### ✨About✨
