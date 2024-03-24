@@ -30,7 +30,6 @@ Studying higher education in Systems Analysis and Development at Instituto Feder
   <img align="center" alt="Kaua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Kaua-SNOW" height="80" width="80" src="https://docs.epsagon.com/assets/images/ae784c0-SNOW_Logo-01e03997b3578b6b79100314630b3b3c.png"/>
   </div>
   
   ##
