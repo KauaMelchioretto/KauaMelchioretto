@@ -12,9 +12,6 @@ Studying higher education in Systems Analysis and Development at Instituto Feder
      <ol><a href="https://kauamelchioretto-portfolio.onrender.com/" target="_blank">My Personal Portfolio</a></ol>
      <ol><a href="https://homeservice-ute7.onrender.com/inicio" target="_blank">Home Service</a></ol>
 
-   - Group projects:
-    <ol><a href="https://www.voiders.club/" target="_blank">Voiders Club</a></ol>
-
 <h1>Statistics</h1>
 <div align="center">
   <a href="https://github.com/KauaMelchioretto">
