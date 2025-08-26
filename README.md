@@ -20,7 +20,7 @@ Studying higher education in Systems Analysis and Development at Instituto Feder
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaMelchioretto&layout=compact&langs_count=7&theme=synthwave&border_radius=0px"/>
 </div>
   
-  <h1>Basics Skills</h1>
+  <h1>Skills 🧰</h1>
   <div style="display: inline_block"><br>
   <img align="center" alt="Kaua-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Kaua-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
