@@ -20,11 +20,9 @@ Graduated in Systems Analysis and Development at Instituto Federal de Santa Cata
 <picture>
   <source
     srcset="https://github-readme-stats-fast.vercel.app/api?username=kauamelchioretto&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dracula)"
   />
   <source
     srcset="https://github-readme-stats-fast.vercel.app/api?username=kauamelchioretto&show_icons=true"
-    media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=kauamelchioretto&show_icons=true" />
 </picture>
