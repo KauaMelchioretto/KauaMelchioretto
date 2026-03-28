@@ -16,6 +16,8 @@ Graduated in Systems Analysis and Development at Instituto Federal de Santa Cata
 <div align="center">
   <a href="https://github.com/KauaMelchioretto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaMelchioretto&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_radius=0px"
+
+   [Kauã Melchioretto's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kauamelchioretto&show_icons=true&theme=dracula)
        />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaMelchioretto&layout=compact&langs_count=7&theme=synthwave&border_radius=0px"/>
 </div>
