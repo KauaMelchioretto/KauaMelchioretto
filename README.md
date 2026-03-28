@@ -5,7 +5,7 @@ Graduated in Systems Analysis and Development at Instituto Federal de Santa Cata
 - 🔭 I'm currently an intern as developer...
 - 🌱 Studying...
 - 🤔 Can you help me? Just share any interesting knowledge about the programming field!
-- 📫 Contact me by email: kauamelchoretto@gmail.com
+- 📫 Contact me by email: kmelchioretto@gmail.com
 - ⚡ Curiosity: Constantly evolving. 🙂
 -  👨‍💻 Some projects:
    - Personal projects:
@@ -14,7 +14,7 @@ Graduated in Systems Analysis and Development at Instituto Federal de Santa Cata
 
 <h1>Statistics</h1>
 <div align="center">
-  <a href="https://github.com/KauaMelchioretto" style="text-decoration: none">
+  <a href="https://github.com/KauaMelchioretto" style="text-decoration: none;">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=kauamelchioretto&show_icons=true&theme=synthwave"/>
      
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaMelchioretto&layout=compact&langs_count=7&theme=synthwave&border_radius=0px"/>
