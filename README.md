@@ -15,10 +15,13 @@ Graduated in Systems Analysis and Development at Instituto Federal de Santa Cata
 <h1>Statistics</h1>
 <div align="center">
 <div align="center">
-   <a href="https://github.com/KauaMelchioretto/">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=kauamelchioretto&show_icons=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaMelchioretto&layout=compact&langs_count=7&theme=synthwave&border_radius=0px"/></a>
-   </div>
+  <a href="https://github.com/KauaMelchioretto">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=kauamelchioretto&show_icons=true&theme=synthwave"/>
+  </a><!--
+  --><a href="https://github.com/KauaMelchioretto">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaMelchioretto&layout=compact&langs_count=7&theme=synthwave&border_radius=0px"/>
+  </a>
+</div>
   
   <h1>Skills 🧰</h1>
   <div style="display: inline_block"><br>
