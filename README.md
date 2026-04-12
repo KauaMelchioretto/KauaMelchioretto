@@ -11,6 +11,7 @@ Graduated in Systems Analysis and Development at Instituto Federal de Santa Cata
    - Personal projects:
      <ol><a href="https://kauamelchioretto-portfolio.onrender.com/" target="_blank">My Personal Portfolio</a></ol>
      <ol><a href="https://homeservice-ute7.onrender.com/inicio" target="_blank">Home Service</a></ol>
+     <ol><a href="https://tabflow.com.br" target="_blank">TabNews clone (in development)</a></ol>
 
 <h1>Statistics</h1>
 <div align="center">
