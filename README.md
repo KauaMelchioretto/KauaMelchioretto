@@ -1,17 +1,20 @@
-### Hi!!! 👋 I'm Kauã, i'm fascinated by programming, solve problems and my current profession is backend developer.
-Graduated in Systems Analysis and Development at Instituto Federal de Santa Catarina - Campus Gaspar.
+### Hi, I'm Kauã Melchioretto 👋
+I'm a Backend Developer working mainly with C# and .NET, focused on building reliable, maintainable, and practical software solutions.
 
-### ✨About✨
-- 🔭 I'm currently an intern as developer...
-- 🌱 Studying...
-- 🤔 Can you help me? Just share any interesting knowledge about the programming field!
-- 📫 Contact me by email: kmelchioretto@gmail.com
-- ⚡ Curiosity: Constantly evolving. 🙂
--  👨‍💻 Some projects:
-   - Personal projects:
-     <ol><a href="https://kauamelchioretto-portfolio.onrender.com/" target="_blank">My Personal Portfolio</a></ol>
-     <ol><a href="https://homeservice-ute7.onrender.com/inicio" target="_blank">Home Service</a></ol>
-     <ol><a href="https://tabflow.com.br" target="_blank">TabNews clone (in development)</a></ol>
+**Turning business problems into software solutions.**
+
+My background is in Systems Analysis and Development at Instituto Federal de Santa Catarina — Campus Gaspar.
+
+### ✨About me✨
+ <ol>💻 Backend Developer </ol>
+ <ol>⚙️ Main stack: C#, .NET and SQL</ol>
+<ol>🧩 Experience with APIs (REST & SOAP), databases, integrations, business systems and software architecture</ol>
+<ol>🚀 Always improving through real projects and practical challenges</ol>
+
+### Projects✨
+<ol><a href="https://kauamelchioretto-portfolio.onrender.com/" target="_blank">My Personal Portfolio</a></ol>
+<ol><a href="https://homeservice-ute7.onrender.com/inicio" target="_blank">Home Service</a></ol>
+<ol><a href="https://tabflow.com.br" target="_blank">TabNews clone (in development)</a></ol>
 
 <h1>Statistics</h1>
 <div align="center">
@@ -35,6 +38,9 @@ Graduated in Systems Analysis and Development at Instituto Federal de Santa Cata
   <img align="center" alt="Kaua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Kaua-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="Kaua-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img align="center" alt="Kaua-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   </div>
   
   ##
